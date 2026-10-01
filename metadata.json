@@ -1,0 +1,6 @@
+{
+  "name": "Adriel Minimart & Food Export",
+  "description": "Quality food products, stone-free Ofada rice, snails, smoked catfish, panla, and smoked meats for wholesale and retail in Abeokuta, Ogun State, Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
